@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell *)",
+      "Bash(obsidian dev:errors *)",
+      "Bash(where obsidian *)",
+      "Bash(winget install *)",
+      "Bash(npm install *)",
+      "Bash(winget search *)",
+      "Bash(npm search *)",
+      "Bash(where claude *)",
+      "Skill(update-config)",
+      "WebSearch",
+      "Bash(curl -s \"https://raw.githubusercontent.com/semantic-based/Obsidian-Claudian/main/README.md\")",
+      "Bash(obsidian plugin:list *)",
+      "Bash(curl *)",
+      "Bash(npm list *)"
+    ]
+  }
+}

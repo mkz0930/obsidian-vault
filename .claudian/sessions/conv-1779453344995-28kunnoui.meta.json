@@ -1,0 +1,26 @@
+{
+  "id": "conv-1779453344995-28kunnoui",
+  "providerId": "claude",
+  "title": "Explain Claude's capabilities",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779453344998,
+  "updatedAt": 1779700561808,
+  "lastResponseAt": 1779700561808,
+  "sessionId": "d7a2f650-45aa-4e0e-9107-2feec91d2b4a",
+  "providerState": {
+    "providerSessionId": "d7a2f650-45aa-4e0e-9107-2feec91d2b4a",
+    "previousProviderSessionIds": [
+      "2cc28cb3-f1f4-459e-8f7a-9561c7ce4ed3"
+    ]
+  },
+  "usage": {
+    "model": "minimax",
+    "inputTokens": 25805,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 10200,
+    "contextWindow": 200000,
+    "contextTokens": 36005,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}
