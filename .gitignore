@@ -14,3 +14,6 @@ Thumbs.db
 # 同步冲突
 *.orig
 *.conflict
+
+# 软链接（内容在外部管理）
+llm-wiki
